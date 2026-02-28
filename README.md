@@ -8,29 +8,19 @@
 
 </div>
 
-<h3 align="center">👩‍💻  About Me</h3>
-
 ###
 
-<img align="left" height="180" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="left">
+  <img src="https://media.tenor.com/fTaJKvvsAboAAAAi/cinnamoroll-sanrio.gif"
+       height="270"
+       align="left"
+       style="margin-right: 50px;" />
+</p>
 
-###
+### ✨ About Me
 
-<p align="center">✨ Passionate about building  AI-powered applications.  <br>🌍 Love integrating AI + SOFTWARE + Visualization <br>🧠 Working on real-world projects like:  <br>- 🌿 Plant Disease Detection System  <br>- 🧠 Brain Tumor Detection  <br>- 🌎 Google Trends 3D Visualization  <br>- 🎙️ AI Voice Assistant with Database Integration  <br>⚡ I enjoy turning complex problems into simple, beautiful, and scalable solutions.</p>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-</div>
-
-###
-
-## 👨‍💻 About Me  
-
-✨ Passionate about building **AI-powered applications**  
-🌍 Love integrating **Data Science + Web + Visualization**  
+✨ Passionate about building AI-powered applications.  
+🌍 Love integrating AI + SOFTWARE + Visualization  
 🧠 Working on real-world projects like:  
 - 🌿 Plant Disease Detection System  
 - 🧠 Brain Tumor Detection  
@@ -39,114 +29,12 @@
 
 ⚡ I enjoy turning complex problems into simple, beautiful, and scalable solutions.
 
----
+<br clear="left"/>
 
-## 🛠️ Tech Stack  
-
-### 💻 Programming & AI
-- Python 🐍  
-- TensorFlow & Keras  
-- NumPy, Pandas  
-- Scikit-Learn  
-- OpenCV  
-
-### 🌐 Web Development
-- HTML5, CSS3, JavaScript  
-- Streamlit  
-- Flask  
-- Bootstrap  
-
-### 📊 Data & Visualization
-- Matplotlib  
-- Seaborn  
-- Plotly  
-- Google Trends API  
-
----
-
-## 🚀 What I’m Currently Working On  
-
-🔭 Advanced AI-based Detection Systems  
-🌍 3D Interactive World Map Visualization  
-🎤 Voice-Controlled Data Dashboard  
-📈 Real-time Data Analytics Platforms  
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌟 Fun Fact  
-
-💡 I don't just write code — I build intelligent systems that think.
-
----
-
-## 🤝 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
+###
 
 ⭐ *“Building the future with Artificial Intelligence.”*
 
----
-
-## 💼 Work Experience · `LEVEL PROGRESSION`
-
-<div align="center">
-
-```
-🎮 ══════════════════ CAREER JOURNEY ══════════════════ 🎮
-```
-
-</div>
-
-### 🔴 LVL 1 — Data Science Intern · Prodigy InfoTech *(Feb 2024 – Jun 2024)*
-> 📍 Mumbai | Python · Pandas · NumPy · PyTrends · Matplotlib · Seaborn · Plotly
-
-- 🔎 Deep Google Trends analysis — regional & temporal insights
-- 📊 Built interactive dashboards for data-driven decision-making
-- 🚀 **Projects:** Google Trends Analytics Dashboard · Trend Forecasting System
-
----
-
-### 🟣 LVL 2 — AI Engineer Intern · Staffinix LLC *(Jan 2025 – May 2025)*
-> 📍 Mumbai | TensorFlow · OpenCV · ML · NLP · Python
-
-- 🤖 Designed AI-driven recommendation systems using ML & NLP
-- 🧠 Built & trained TensorFlow models for personalization & prediction
-- 👁️ Applied OpenCV for image processing & automation
-- 🚀 **Projects:** AI-Based Recommendation Engine · Resume Screening & Skill Matching System
-
----
-
-### 🩷 LVL 3 — Java Developer · Wobot Intelligence Pvt. Ltd *(Aug 2025 – Dec 2025)*
-> 📍 Mumbai | Java · Spring Boot · Spring MVC · MySQL · Spring Security
-
-- ⚙️ Built backend web apps using Java, Spring Boot, Spring MVC
-- 🔗 Developed RESTful APIs for scalable frontend-backend communication
-- 🔐 Implemented Spring Security (RBAC authentication & authorization)
-- 🗄️ Integrated MySQL & optimized SQL queries for performance
-- 🚀 Followed MVC architecture, clean code & best practices
-
----
 
 ## 🚀 Featured Projects · `QUEST LOG`
 
@@ -154,19 +42,14 @@
 
 | 🎯 Quest | ⚔️ Weapons Used | 📜 Description | 🏅 Status |
 |:---|:---|:---|:---:|
-| 🧠 **OncoVision** — Cancer Detection | CNN · TensorFlow · OpenCV | AI medical image classifier for early cancer detection | ✅ DONE |
-| 📚 **IntelliLearn** — AI E-Learning | NLP · Chatbot · React · ML | AI-powered e-learning platform with personalized dashboards | ✅ DONE |
-| 🛒 **ShopSphere** — MERN E-Commerce | MongoDB · Express · React · Node | Scalable e-commerce with auth, product mgmt & admin panel | ✅ DONE |
+| 📚 **IntelliLearn** — AI E-Learning | NLP · Chatbot · PHP,Mysql · ML | AI-powered e-learning platform with personalized dashboards | ✅ DONE |
 | 📊 **TrendScope** — Analytics Tool | Python · Pandas · Plotly · PyTrends | Google Trends visualizer with regional insights | ✅ DONE |
 | 🧠 **Brain Tumor Detection** | CNN · Keras · TensorFlow | MRI scan classification with deep convolutional network | ✅ DONE |
 | 🌿 **Plant Disease Detection** | ResNet · Transfer Learning | Real-time crop disease ID from leaf images | ✅ DONE |
 | 🎙️ **AI Voice Assistant** | NLP · SpeechRecognition · MySQL | Voice-controlled database query system | ✅ DONE |
 | 🤖 **Recommendation Engine** | ML · NLP · TensorFlow | Personalized AI-driven recommendation system | ✅ DONE |
-| 📋 **Resume Screening System** | NLP · Python · ML | Automated resume & skill matching system | ✅ DONE |
 
 </div>
-
----
 
 ## 🛠️ Tech Arsenal · `SKILL TREE 🌳`
 
@@ -253,8 +136,6 @@
 
 </div>
 
----
-
 ## 🧠 Skill Power Levels · `STATS BAR`
 
 ```
@@ -267,7 +148,7 @@
 ║  Deep Learning    ███████████████████░░  85% 🤖      ║
 ║  Computer Vision  ██████████████████░░░  82% 👁️      ║
 ║  Spring Boot      ██████████████████░░░  82% ⚙️      ║
-║  React / MERN     ████████████████░░░░░  75% 🌐      ║
+║  PHP  / MYSQL     ████████████████░░░░░  75% 🌐      ║
 ║  NLP              ████████████████░░░░░  75% 💬      ║
 ║  Data Science     ████████████████░░░░░  75% 📊      ║
 ║  Cloud & AWS      █████████████░░░░░░░░  65% ☁️      ║
@@ -275,41 +156,25 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
----
 
 ## 📈 GitHub Intelligence · `STATS DASHBOARD`
 
+
+
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=snehaljadhav395&show_icons=true&hide_border=true&bg_color=000000&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&include_all_commits=true&count_private=true"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehaljadhav395&layout=compact&hide_border=true&bg_color=000000&title_color=ff1493&text_color=ffffff&langs_count=8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehal395u&hide_border=true&background=000000&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493&sideLabels=ffffff&dates=888888&stroke=ff1493"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehaljadhav395&hide_border=true&background=000000&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493&sideLabels=ffffff&dates=888888&stroke=ff1493"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehal395u&bg_color=000000&color=ff1493&line=ff69b4&point=ffffff&area=true&area_color=ff1493&hide_border=true"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehaljadhav395&bg_color=000000&color=ff1493&line=ff69b4&point=ffffff&area=true&area_color=ff1493&hide_border=true"/>
-
-</div>
-
----
 
 ## 🏆 Trophy Cabinet · `ACHIEVEMENTS UNLOCKED`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=snehaljadhav395&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
 
 ## 🎓 Certifications · `BADGES COLLECTED`
 
@@ -317,7 +182,7 @@
 
 | 🏅 Badge | 🏢 Issuer | 📌 Area |
 |:---|:---|:---|
-| 🏆 **Java Hackathon — Top 20** | VSIT Mumbai | Java · Problem Solving |
+| 🏆 **Java Hackathon — Top 2** | VSIT Mumbai | Java · Problem Solving |
 | 🇮🇳 **C-DAC Govt. Exam Qualified** | C-DAC Mumbai (Jan 2026) | Java · Spring Boot · React · Design Patterns |
 | ☁️ **Deloitte Virtual Internship** | Deloitte | Cloud · AI · Data Insights |
 | 📊 **Google Analytics Certified** | Google | Analytics · Data Optimization |
@@ -331,7 +196,6 @@
 
 </div>
 
----
 
 ## 🎓 Education
 
@@ -347,8 +211,6 @@
 
 </div>
 
----
-
 ## 🌟 Currently Leveling Up
 
 <div align="center">
@@ -362,7 +224,6 @@
 
 </div>
 
----
 
 ## 💡 Dev Quote · `DAILY BUFF`
 
@@ -372,21 +233,17 @@
 
 </div>
 
----
 
 ## 🌐 Connect · `SOCIAL HUB`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff1493)](https://www.linkedin.com/in/snehal-jadhav-1b1101305)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff69b4)](mailto:snehaljadhav395@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff1493)](https://github.com/snehaljadhav395)
-[![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=ff69b4)](https://www.kaggle.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ff1493)](https://YOUR_PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff1493)](https://www.linkedin.com/in/snehal-jadhav-1b1101305/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff69b4)](mailto:snehalljadhav395@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff1493)](https://github.com/snehal395u)
 
 </div>
 
----
 
 <div align="center">
 
@@ -403,7 +260,6 @@
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--   💡 SETUP TIPS:                                                      -->
-<!--   · GitHub username used: snehaljadhav395 (update if different)      -->
-<!--   · Update YOUR_PORTFOLIO.com with your real portfolio link           -->
+<!--   · GitHub username used: snehal395u (update if different)      -->
 <!--   · Pixel girl GIF renders from Giphy automatically                  -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
