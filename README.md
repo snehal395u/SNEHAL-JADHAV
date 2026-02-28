@@ -159,13 +159,12 @@
 
 ## 📈 GitHub Intelligence · `STATS DASHBOARD`
 
-
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehal395u&hide_border=true&background=000000&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493&sideLabels=ffffff&dates=888888&stroke=ff1493"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehal395u&hide_border=true&background=000000&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&stroke=ff1493"/>
 
 </div>
+
 
 <div align="center">
 
